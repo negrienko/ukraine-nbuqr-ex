@@ -1,7 +1,7 @@
 defmodule UkraineNbuqrEx.MixProject do
   use Mix.Project
 
-  @app :ukraine_nbuqr_ex
+  @app :ukraine_nbuqr
   @module UkraineNbuqrEx
   @author "Danylo Negrienko"
   @authors [@author]
